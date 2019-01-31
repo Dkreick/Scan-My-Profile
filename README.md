@@ -20,3 +20,13 @@
 4 - Aim your camera to my avatar until the app recognize it.
 
 5 - Enjoy my info, and thank you for your time :)
+
+# For lazy people
+
+* [Github link](https://github.com/Dkreick)
+
+* [Whatsapp Link](https://wa.me/541133302076)
+
+* [Linkedin Link](https://www.linkedin.com/in/damiankreick/)
+
+* [Mail Link](mailto:damian.kreick@email.com )
