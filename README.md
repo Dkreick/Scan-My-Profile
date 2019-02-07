@@ -13,7 +13,11 @@
 
 2 - Download the app and launch it!
 
-3 - Look up for [my profile in Github](https://github.com/Dkreick) ☚
+3 - Look up for [my profile in Github](https://github.com/Dkreick) ☚ *OR* aim for the image below
+
+<p align="center">
+  <img src="https://github.com/Dkreick/Scan-My-Profile/blob/master/Scan%20My%20Profile/Assets/Assets/Images/ProfileImage.jpeg" width="350" height="350" title="hover text">
+</p>
 
 * If you dont have any browser at hand, just press *"I give up"* in the tooltip header.
 
