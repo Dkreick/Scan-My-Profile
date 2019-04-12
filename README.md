@@ -1,31 +1,30 @@
 # Scan My profile
 
-### Small app for scan your my profile github and know more about me
+### Small app for know more about me
 
-#### TODO: Place a button for download the app
-
-<p align="center"><img src="https://img.shields.io/badge/Version-2018.2.17-brightgreen.svg"/> <img src="https://img.shields.io/badge/Status-In development-yellow.svg"/> <img src="https://img.shields.io/badge/Contribuitors-Welcome-blue.svg"/> <img src="https://img.shields.io/badge/Build Version-1.0-orange.svg"/></p> 
-
+<p align="center"><img src="https://img.shields.io/badge/Version-2018.2.17-blue.svg"/> <img src="https://img.shields.io/badge/Status-Alpha Build-brightgreen.svg"/> <img src="https://img.shields.io/badge/Contribuitors-Welcome-blue.svg"/> <img src="https://img.shields.io/badge/Build Version-1.0-orange.svg"/></p> 
 
 ## Instructions 
 
-1 - Go to (TODO - Put here a link to play store app) or search with your phone for "DKreick - Scan my profile"  
+1 - Go [HERE](https://github.com/Dkreick/Scan-My-Profile/raw/master/Build.apk) to download the app.
 
-2 - Download the app and launch it!
+2 - Install it in your phone (Be sure to uncheck "Unkown sources" in settings).
 
-3 - Look up for [my profile in Github](https://github.com/Dkreick) ☚ *OR* aim for the image below
+3 - Launch it, give camera permissions (This is for the augmented reality package).
+
+4 - Look up for [My profile in Github](https://github.com/Dkreick) ☚ *OR* aim for the image below
 
 <p align="center">
   <img src="https://github.com/Dkreick/Scan-My-Profile/blob/master/Scan%20My%20Profile/Assets/Assets/Images/ProfileImage.jpeg" width="350" height="350" title="hover text">
 </p>
 
-* If you dont have any browser at hand, just press *"I give up"* in the tooltip header.
+* If you dont have any browser at hand, just press *"I can't do it now"* in the tooltip header.
 
 4 - Aim your camera to my avatar until the app recognize it.
 
 5 - Enjoy my info, and thank you for your time :)
 
-# For lazy people
+# For lazy people. here is the main information.
 
 * [Github link](https://github.com/Dkreick)
 
