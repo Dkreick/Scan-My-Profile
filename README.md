@@ -15,16 +15,22 @@
 4 - Look up for [My profile in Github](https://github.com/Dkreick) ☚ *OR* aim for the image below
 
 <p align="center">
-  <img src="https://github.com/Dkreick/Scan-My-Profile/blob/master/Scan%20My%20Profile/Assets/Assets/Images/ProfileImage.jpeg" width="350" height="350" title="hover text">
+  <img src="https://github.com/Dkreick/Scan-My-Profile/blob/master/Scan%20My%20Profile/Assets/Assets/Images/ProfileImage.jpeg" width="350" height="350">
 </p>
 
 * If you dont have any browser at hand, just press *"I can't do it now"* in the tooltip header.
 
-4 - Aim your camera to my avatar until the app recognize it.
+4 - Aim your camera to my avatar until the app recognize it, you should see this layout: 
+
+
+<p align="center">
+  <img src="https://github.com/Dkreick/Scan-My-Profile/blob/master/ReadmePhoto.png">
+</p>
+
 
 5 - Enjoy my info, and thank you for your time :)
 
-# For lazy people. here is the main information.
+## For lazy people. here is the main information.
 
 * [Github link](https://github.com/Dkreick)
 
